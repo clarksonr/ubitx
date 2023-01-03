@@ -1,4 +1,9 @@
 #NOTICE
+
+This is my own fork of Ian's uBitx software.  You can find at Ian's information below and at http://www.hamskey.com.
+
+
+
 ----------------------------------------------------------------------------
 - Now Release Version 1.20 on my blog (http://www.hamskey.com)
 - You can download and compiled hex file and uBITX Manager application on release section (https://github.com/phdlee/ubitx/releases)
